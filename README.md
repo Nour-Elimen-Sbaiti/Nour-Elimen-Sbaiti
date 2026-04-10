@@ -7,12 +7,17 @@ geospatial data analysis,spatial modeling, digital mapping technologies
 developing practical and data-driven geospatial projects
  
  # Tools:
+ 
  Data Tools and ML applications : PostGIS , Geopandas , scikit-learn , Tensorflow
+ 
+ 
  GIS & Remote Sensing : ArcGIS , QGIS , GEE , Geoserver
 
 # Passionate about :
 Environmental monitoring & Earth observation 
+
 Data science & spatial data modeling
+
 ML and DL applications and techniques 
 
 
