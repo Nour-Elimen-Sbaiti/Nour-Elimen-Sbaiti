@@ -2,7 +2,8 @@
 Geomatics engineering Student at Manouba School of Engineering with a strong interest in geospatial analysis and modeling , remote sensing, and digital mapping technologies. Focused on applying data-driven geospatial solutions to tackle global environmental  and technological challenges
 
 # What I'm working on
-geospatial data analysis,spatial modeling, digital mapping and technologies 
+geospatial data analysis,spatial modeling, digital mapping technologies  
+
 developing practical and data-driven geospatial projects
  
  # Tools:
